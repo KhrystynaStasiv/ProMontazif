@@ -23,3 +23,14 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+
+/* :root {
+  --font-family: 'Gilroy', sans-serif;
+  --main: #0c0c0c;
+  --accent: #3350e9;
+  --accent-hover: #1F3CD4;
+  --background: #fbfbfb;
+  --main-text: #fbfbfb;
+  --cards: #f3f3f3;
+  --basic-transiton: 250ms linear;
+} */
