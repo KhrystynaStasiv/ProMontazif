@@ -1,5 +1,4 @@
 .header {
-  background-color: black;
   padding-top: 22px;
   padding-bottom: 22px;
   border-bottom: 1px solid #e7e9fc;
@@ -20,7 +19,7 @@
 .logo {
   font-size: 24px;
   font-weight: 700;
-  color: #FFF;
+
   margin-right: 120px;
 }
 
@@ -32,7 +31,6 @@
 }
 
 .nav-list-item {
-  color: #FFF;
   font-size: 16px;
   font-weight: 500;
   line-height: normal;

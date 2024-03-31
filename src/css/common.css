@@ -3,8 +3,9 @@ html {
 }
 
 body {
-    font-family: var(--font-family)
-}
+    font-family: var(--font-family);
+    color: white;
+    background-color: black;
 
 .container {
     width: 100%;
@@ -27,7 +28,7 @@ section {
     height: 48px;
     border: none;
     border-radius: 16px;
-    background-color: var(--accent);
+    background-color: transparent;
     color: var(--main-text);
     font-weight: 500;
     font-size: 14px;
@@ -38,7 +39,7 @@ section {
 
 .btn:focus,
 .btn:hover {
-    background-color: var(--accent-hover)
+    background-color: crimson;
 }
 
 .visually-hidden {
